@@ -205,6 +205,36 @@ However, I can see the potential - if one really wanted to, FDF could be evolved
 
 ---
 
+## Visual Examples
+
+The following examples showcase the advanced rendering capabilities and various features implemented in the FDF project:
+
+### T2 Terrain Visualization
+
+This example demonstrates the sophisticated terrain rendering with height-based color gradients and advanced lighting systems:
+
+#### Complete View
+![T2 Complete View](demos/t2.png)
+*T2 terrain map showing the full landscape with isometric projection, height-based color mapping, and integrated lighting system*
+
+#### Detailed View (Zoomed)
+![T2 Detailed View](demos/t2_zoom.png)
+*Close-up detail of T2 terrain highlighting the precision of wireframe rendering, color interpolation along edges, and lighting effects on individual surface elements*
+
+### Julia Set Fractal Rendering
+
+This example showcases the mathematical precision and color management capabilities when rendering complex fractal geometries:
+
+#### Complete View
+![Julia Set Complete View](demos/julia.png)
+*Julia set fractal rendered as 3D wireframe, demonstrating the advanced color gradient system and mathematical precision of the height mapping*
+
+#### Detailed View (Zoomed)
+![Julia Set Detailed View](demos/julia_zoom.png)
+*Detailed view of Julia set fractal showing the intricate wireframe precision, smooth color transitions, and the complex mathematical structures rendered with pixel-perfect accuracy*
+
+---
+
 ## Installation
 
 Clone the repository:
